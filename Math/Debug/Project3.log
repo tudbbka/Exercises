@@ -1,0 +1,27 @@
+﻿  String.cpp
+  main.cpp
+  StackNode.cpp
+g:\project1\project4\stacknode.cpp(10): error C2065: 'NULL' : undeclared identifier
+  Stack.cpp
+g:\project1\project4\stack.cpp(7): error C2276: '!' : illegal operation on bound member function expression
+g:\project1\project4\stack.cpp(22): error C2039: 'stackFull' : is not a member of 'StackNode'
+          g:\project1\project4\stacknode.h(2) : see declaration of 'StackNode'
+g:\project1\project4\stack.cpp(32): error C2248: 'StackNode::m_nNumber' : cannot access private member declared in class 'StackNode'
+          g:\project1\project4\stacknode.h(3) : see declaration of 'StackNode::m_nNumber'
+          g:\project1\project4\stacknode.h(2) : see declaration of 'StackNode'
+g:\project1\project4\stack.cpp(33): error C2248: 'StackNode::m_pNext' : cannot access private member declared in class 'StackNode'
+          g:\project1\project4\stacknode.h(4) : see declaration of 'StackNode::m_pNext'
+          g:\project1\project4\stacknode.h(2) : see declaration of 'StackNode'
+g:\project1\project4\stack.cpp(46): error C2248: 'StackNode::m_nNumber' : cannot access private member declared in class 'StackNode'
+          g:\project1\project4\stacknode.h(3) : see declaration of 'StackNode::m_nNumber'
+          g:\project1\project4\stacknode.h(2) : see declaration of 'StackNode'
+g:\project1\project4\stack.cpp(47): error C2248: 'StackNode::m_pNext' : cannot access private member declared in class 'StackNode'
+          g:\project1\project4\stacknode.h(4) : see declaration of 'StackNode::m_pNext'
+          g:\project1\project4\stacknode.h(2) : see declaration of 'StackNode'
+g:\project1\project4\stack.cpp(56): error C2248: 'StackNode::m_nNumber' : cannot access private member declared in class 'StackNode'
+          g:\project1\project4\stacknode.h(3) : see declaration of 'StackNode::m_nNumber'
+          g:\project1\project4\stacknode.h(2) : see declaration of 'StackNode'
+g:\project1\project4\stack.cpp(57): error C2248: 'StackNode::m_pNext' : cannot access private member declared in class 'StackNode'
+          g:\project1\project4\stacknode.h(4) : see declaration of 'StackNode::m_pNext'
+          g:\project1\project4\stacknode.h(2) : see declaration of 'StackNode'
+  Generating Code...
